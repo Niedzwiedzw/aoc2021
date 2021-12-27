@@ -1,5 +1,3 @@
-use itertools::Itertools;
-
 const DATA: &str = include_str!("./day1.txt");
 
 fn main() {
